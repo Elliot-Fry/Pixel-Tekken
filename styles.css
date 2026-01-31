@@ -1,0 +1,14 @@
+
+
+body {
+    background-color: gray;
+}
+
+#content {
+    background-color: white;
+    width: 50vw;
+    position:absolute;
+    left: 25vw;
+    /* top: 0px; */
+    padding-left: 5px;
+}
