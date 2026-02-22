@@ -9,15 +9,14 @@ body {
 }
 
 div {
-    /* border: 1px dotted black; */
+    /* border: 1px dotted white; */
 }
 
-#content {
-    background-color: rgb(50,50,50);
-    width: 50vw;
+#top {
+    background-color: rgb(30,30,40);
+    width: 70vw;
     position:absolute;
-    left: 25vw;
-    /* top: 0px; */
+    left: 15vw;
     padding: 5px;
     display: flex;
     flex-direction: column;
@@ -46,4 +45,7 @@ div {
 #links label:hover{
     background-color: rgb(40,40,60);
 }
+
+
+
 
